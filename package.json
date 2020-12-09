@@ -1,0 +1,11 @@
+{
+  "name": "nodejsassignments",
+  "version": "1.0.0",
+  "description": "this is description",
+  "main": "Q2module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
