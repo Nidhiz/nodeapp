@@ -3,7 +3,6 @@ var app = express();
 var path=require("path");
 var fs=require("fs");
 
-
 //server configuration
 app.use(express.static(path.join(__dirname,'public')));
 
